@@ -1,0 +1,50 @@
+.navbar {
+  margin: 0;
+  border-radius: 0px;
+}
+
+.navbar-inverse .navbar-nav li a {
+  font-family: 'Lato';
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+
+.jumbotron {
+  text-align: center;
+  background-color: #2C3A49;
+}
+
+.jumbotron h1 {
+  color: white;
+}
+
+.jumbotron hr {
+  width: 10%;
+  border-bottom: 3px solid white;
+}
+
+.btn-primary {
+	color: #fff;
+	background-color: transparent;
+	border-color: white;
+	margin-bottom: 5px;
+  transition: 0.4s;
+}
+.btn-primary:hover {
+	color: #2C3A49;
+	background-color: white;
+	border-color: white;
+}
+
+.glyphicon-large {
+	font-size: 100px;
+  color: #2C3A49;
+}
+.call-to-action {
+	text-align: center;
+}
+.call-to-action p {
+	margin-bottom: 30px;
+	font-family: sans-serif;
+}
